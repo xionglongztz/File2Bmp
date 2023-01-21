@@ -1,0 +1,13 @@
+E:\Projects\VisualStudio2022\File2Wav\bin\Release\File2Wav.exe.config
+E:\Projects\VisualStudio2022\File2Wav\bin\Release\File2Wav.exe
+E:\Projects\VisualStudio2022\File2Wav\bin\Release\File2Wav.pdb
+E:\Projects\VisualStudio2022\File2Wav\bin\Release\File2Wav.xml
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.vbproj.AssemblyReference.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.vbproj.SuggestedBindingRedirects.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.Form1.resources
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.Resources.resources
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.vbproj.GenerateResource.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.vbproj.CoreCompileInputs.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.exe
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.xml
+E:\Projects\VisualStudio2022\File2Wav\obj\Release\File2Wav.pdb

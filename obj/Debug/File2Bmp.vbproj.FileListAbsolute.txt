@@ -1,0 +1,13 @@
+E:\Projects\VisualStudio2022\File2Wav\bin\Debug\File2Bmp.exe.config
+E:\Projects\VisualStudio2022\File2Wav\bin\Debug\File2Bmp.exe
+E:\Projects\VisualStudio2022\File2Wav\bin\Debug\File2Bmp.pdb
+E:\Projects\VisualStudio2022\File2Wav\bin\Debug\File2Bmp.xml
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.vbproj.AssemblyReference.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.vbproj.SuggestedBindingRedirects.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.Form1.resources
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.Resources.resources
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.vbproj.GenerateResource.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.vbproj.CoreCompileInputs.cache
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.exe
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.xml
+E:\Projects\VisualStudio2022\File2Wav\obj\Debug\File2Bmp.pdb
